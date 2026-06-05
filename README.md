@@ -15,7 +15,7 @@
 [![Platform](https://img.shields.io/badge/platform-Termux%20%7C%20Android-orange?style=flat-square)](https://github.com/M41NUL/X-ENCODER-)
 [![Language](https://img.shields.io/badge/language-Python%203-blue?style=flat-square)](https://github.com/M41NUL/X-ENCODER-)
 [![License](https://img.shields.io/badge/license-MIT-red?style=flat-square)](https://github.com/M41NUL/X-ENCODER-)
-[![Author](https://img.shields.io/badge/dev-MAINUL--X-yellow?style=flat-square)](https://github.com/M41NUL)
+[![Author](https://img.shields.io/badge/dev-𝐂𝐎𝐃𝐄𝐗-𝐌𝟒𝟏𝐍𝐔𝐋-yellow?style=flat-square)](https://github.com/M41NUL)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=flat-square&logo=telegram)](https://t.me/codexm41nul)
 [![Stars](https://img.shields.io/github/stars/M41NUL/X-ENCODER-?style=flat-square&color=yellow)](https://github.com/M41NUL/X-ENCODER-/stargazers)
 [![Forks](https://img.shields.io/github/forks/M41NUL/X-ENCODER-?style=flat-square&color=blue)](https://github.com/M41NUL/X-ENCODER-/network/members)
